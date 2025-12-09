@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+
+    <h3>Form tag</h3>
+   
+       <form action="/action">
+        <br>
+
+        Full name-<input type="text" maxlength="2" autofocus> <!-- autofocus used for direct curcer to write things -->
+        <br><br>
+        Date of birth-<input type="date" > 
+        <br><br>
+        Mobile number-<input type="number" placeholder="00 00 00 00 00" required>
+        <br><br>
+        Emai id-<input type="email">  
+        <br><br>
+        Pasword-<input type="password" placeholder="strong"> 
+        <br><br>
+        photo-<input type="file"> 
+        <br><br>
+        Gender-<input type="radio" name="Gen"> 
+        male<input type="radio" name="Gen">
+        Female<input type="radio" name="Gen">
+        <br><br>
+       Section-   
+            sec A <input type="checkbox"/>
+            sec B <input type="checkbox"/>
+            sec C <input type="checkbox"/>
+        <br><br>
+        feedback <textarea rows="2" cols="20" placeholder="type here"></textarea>
+        <br>
+        <button>submit (normal submit)</button>
+        <br>
+       input type submit<input type="button" >
+        
+       </form>
+    
+</body>
+</html>

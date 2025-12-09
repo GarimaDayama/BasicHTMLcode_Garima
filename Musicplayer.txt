@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+
+    <h2>Audio Player</h2>
+    <P><i>Click any Song To be Played</i></P>
+    <P><i><b>HUM SATH SATH HAI</b></i></P>
+
+        <audio controls>
+            <source src="C:\Users\Admin\OneDrive\Desktop\collegeworkshop\Extras\Song1.mp3" type="audio/mpeg">
+        </audio>
+
+                  <br>
+
+         <audio controls>
+            <source src="C:\Users\Admin\OneDrive\Desktop\collegeworkshop\Extras\Song2.mp3" type="audio/mpeg">
+        </audio>
+                
+                  <br>
+
+        <audio controls>
+            <source src="C:\Users\Admin\OneDrive\Desktop\collegeworkshop\Extras\Song3.mp3" type="audio/mpeg">
+        </audio>
+
+                <br>
+
+          <audio controls>
+            <source src="C:\Users\Admin\OneDrive\Desktop\collegeworkshop\Extras\Song4.mp3" type="audio/mpeg">
+        </audio>
+
+               <br>
+
+         <audio controls>
+            <source src= "C:\Users\Admin\OneDrive\Desktop\collegeworkshop\Extras\Song5.mp3" type="audio/mpeg">
+        </audio>
+        
+                
+</body>
+</html>
